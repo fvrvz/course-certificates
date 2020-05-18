@@ -1,5 +1,14 @@
 # course-certificates
-my certificates
-* Click to view:<br/> 
-[Programming Fundamentals with Javascript, HTML and CSS](https://github.com/FaraazKhhan/course-certificates/blob/master/Programming%20Fundamentals%20with%20Javascript%20HTML%20and%20CSS.pdf)<br/>
-[What is Data Science](https://github.com/FaraazKhhan/course-certificates/blob/master/What%20is%20Data%20Science.pdf)
+
+### Programming Fundamentals with Javascript, HTML and CSS
+![Programming Fundamentals with Javascript, HTML and CSS](https://github.com/FaraazKhhan/course-certificates/blob/master/HTML_CSS_JS.jpg)
+<br/>
+### What is Data Science
+![What is Data Science](https://github.com/FaraazKhhan/course-certificates/blob/master/What%20is%20Data%20Science.jpg)
+<br/>
+### Tools for Data Science
+![Tools for Data Science](https://github.com/FaraazKhhan/course-certificates/blob/master/Tools%20for%20Data%20Science.jpg)
+<br/>
+### IBM Badge
+![IBM Badge for Data Science Orientation Program](https://github.com/FaraazKhhan/course-certificates/blob/master/Data_Science_Orientation_Badge.jpg)
+<br/>
