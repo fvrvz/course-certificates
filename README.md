@@ -4,7 +4,7 @@
 ![Getting started with spring boot - AmigosCode](https://github.com/FaraazKhhan/course-certificates/blob/master/Getting-started-with-Spring-Boot_Certificate.jpg)
 
 * Getting started with Java
-![Getting started with Java - AmigosCode](https://github.com/FaraazKhhan/course-certificates/blob/master/certificate-of-completion-for-getting-started-with-java.jpg)
+![Getting started with Java - AmigosCode](https://github.com/FaraazKhhan/course-certificates/blob/master/Getting-started-with-Java_AmigosCode.jpg)
 
 * Programming Fundamentals with Javascript, HTML and CSS
 ![Programming Fundamentals with Javascript, HTML and CSS](https://github.com/FaraazKhhan/course-certificates/blob/master/HTML_CSS_JS.jpg)
